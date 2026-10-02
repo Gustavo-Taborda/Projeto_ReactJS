@@ -4,7 +4,7 @@ Jogo em que o jogador recebe as palavras de uma frase embaralhadas, em formato d
 
 - **Autor:** Gustavo Taborda Medeiros
 - **Repositório:** https://github.com/Gustavo-Taborda/Projeto_ReactJS/
-- **Demonstração (opcional):** [link, se houver]
+- **Demonstração (opcional):** https://gustavo-taborda.github.io/Project-ReactJS-demo/
 
 ## Como o jogo funciona
 
@@ -84,3 +84,4 @@ Conforme exigido pela disciplina, registro o uso de ferramentas de apoio:
   - Guia para integração com DummyJSON para o jogo;
   - proposta das regras de pontuação, tentativas e sequência;
   - README.
+  - Guia para publicar a página
