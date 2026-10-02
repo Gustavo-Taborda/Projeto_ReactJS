@@ -19,9 +19,9 @@ A dificuldade é definida pela quantidade de caracteres da frase.
 
 | Dificuldade | Caracteres | Pontos base |
 |-------------|-----------|-------------|
-| Fácil       | até 60    | 20          |
-| Médio       | 61 a 100  | 50          |
-| Difícil     | 101 ou mais | 120        |
+| Fácil       | até 60    | 10          |
+| Médio       | 61 a 100  | 20          |
+| Difícil     | 101 ou mais | 30        |
 
 ### Pontuação e sequência
 
